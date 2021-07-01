@@ -1,7 +1,6 @@
 ---
 print_background: true
 ---
-@import "../style.css"
 
 # EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
